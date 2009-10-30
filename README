@@ -1,0 +1,11 @@
+This is IROH.  IROH is a library for the Arduino that is capable of handling
+data transmission over an infra-red link.
+
+It is in its infancy, but it will be a big boy soon.
+
+ROADMAP
+-------
+
+Finish demo app to show that it works.
+Abstract into a library.
+Write program that uses this library to build a laser tag game.
